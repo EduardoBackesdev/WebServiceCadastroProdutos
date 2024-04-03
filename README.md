@@ -1,4 +1,4 @@
-# WebServide CadastroProdutos
+# WebService CadastroProdutos
 
 Continuando meus estudos com Spring desenvolvi um webservide para cadastrar produtos, e possivel fazer todas as funções do CRUD, inserir, listar, atulizar e deletar.
 
